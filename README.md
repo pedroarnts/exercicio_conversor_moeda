@@ -3,7 +3,7 @@
 Programa simples que converte valores entre **Real (BRL)** e **Dólar (USD)**, com base em uma cotação informada pelo usuário.
 
 Disponível em duas versões:
-- **Portugol** (`conversorMoeda.por`) — feito para rodar no [Portugol Studio](https://lite.acad.univali.br/portugol/).
+- **Portugol** (`conversorMoeda.por`) — feito para rodar no Portugol Studio.
 - **Python** (`conversor_moeda.py`) — versão equivalente para rodar em qualquer ambiente com Python 3.
 
 ## Funcionalidades
